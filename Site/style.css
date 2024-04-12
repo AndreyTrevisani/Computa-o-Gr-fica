@@ -1,0 +1,24 @@
+body {
+    background-color: #305050; /* Cor de fundo */
+}
+
+h1 {
+    color: rgb(240, 240, 241); /* Cor do título */
+    text-align: center;
+}
+h2{
+    color: #ffa310;
+    text-align: center;
+}
+h4{
+    color: aliceblue;
+    text-align: center;
+}
+img {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    border-color: #7f8d8d;
+}
